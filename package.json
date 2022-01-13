@@ -1,0 +1,14 @@
+{
+  "name": "webgl-mdn-tutorial",
+  "version": "1.0.0",
+  "description": "WebGL tutorial from MDN",
+  "main": "index.js",
+  "author": "Satoru Yamamoto",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "scripts": {
+    "dev": "lite-server"
+  }
+}

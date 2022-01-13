@@ -1,0 +1,8 @@
+{
+  "server": {
+    "baseDir": ["./src"],
+    "routes": {
+      "/vender": "./node_modules"
+    }
+  }
+}
